@@ -1,8 +1,8 @@
 # Project1_Motor_control_system
-##Embedded system project to control dc motors
+## Embedded system project to control dc motors
 - This is a controller system project to control two dc motors 
 in power on or off & turnning direction.
-###- It provides the following modes :-
+### - It provides the following modes :-
 1- Motor1 ON : it turns motor1 and led1 (green)  ON
 2- Motor2 ON : it turns motor2 and led2 (yellow) ON
 3- Both motors ON : it turns motor1 & motor2 ON and led3 (red) ON
